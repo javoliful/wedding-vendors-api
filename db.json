@@ -1,0 +1,304 @@
+{
+  "vendors": [
+    {
+      "id": "1",
+      "name": "Terrace Bay Hotel",
+      "description": "Terrace Bay Hotel is a beautiful wedding venue in Gladstone, Michigan, that sets the stage for an unforgettable celebration with loved ones. The property features many stunning facilities, from a lakefront gazebo to a picturesque patio and grand ballroom. The team at Terrace Bay Hotel caters to all...",
+      "location": "Green Bay, WI"
+    },
+    {
+      "id": "2",
+      "name": "Atlantis Bahamas Terrace",
+      "description": "Based in Nassau in the Bahamas, Atlantis Paradise Island is a dream wedding destination, allowing couples to create everlasting memories against a magical backdrop. This breathtaking setting is the perfect location for couples to exchange their vows - be it on a secluded, white sandy beach or...",
+      "location": "Nassau, BS"
+    },
+    {
+      "id": "3",
+      "name": "Margaritaville Beach Resort Nassau",
+      "description": "Margaritaville Beach Resort Nassau is an impressive hotel wedding venue located in New Providence Island, Bahamas. Relax, engage, and embrace the Margaritaville lifestyle. Enjoy a relaxed environment that inspires collaboration, creativity, and productivity in of one of the Caribbean’s most...",
+      "location": "New Providence Island, BS"
+    },
+    {
+      "id": "4",
+      "name": "The Grand Hotel",
+      "description": "The Grand Hotel offers a luxurious setting for weddings with its elegant ballrooms and stunning views. Located in the heart of the city, it provides a perfect blend of modern amenities and classic charm.",
+      "location": "New York, NY"
+    },
+    {
+      "id": "5",
+      "name": "Sunset Beach Resort",
+      "description": "Sunset Beach Resort is a picturesque wedding venue located on the coast, offering breathtaking ocean views and a serene atmosphere. It's an ideal location for beach weddings and sunset ceremonies.",
+      "location": "Miami, FL"
+    },
+    {
+      "id": "6",
+      "name": "Mountain View Lodge",
+      "description": "Mountain View Lodge is a rustic wedding venue nestled in the mountains, providing a cozy and intimate setting for your special day. The lodge features beautiful wooden interiors and stunning mountain views.",
+      "location": "Aspen, CO"
+    },
+    {
+      "id": "7",
+      "name": "Garden of Eden",
+      "description": "Garden of Eden is a botanical garden wedding venue that offers a lush and vibrant setting for weddings. With its beautiful flowers and serene atmosphere, it's a perfect location for nature lovers.",
+      "location": "San Francisco, CA"
+    },
+    {
+      "id": "8",
+      "name": "Royal Palace",
+      "description": "Royal Palace is a grand and opulent wedding venue that offers a regal setting for your special day. With its magnificent architecture and luxurious interiors, it's a perfect location for a fairytale wedding.",
+      "location": "London, UK"
+    },
+    {
+      "id": "9",
+      "name": "Seaside Pavilion",
+      "description": "Seaside Pavilion is a charming wedding venue located by the sea, offering stunning ocean views and a relaxed atmosphere. It's an ideal location for beach weddings and seaside ceremonies.",
+      "location": "Sydney, AU"
+    },
+    {
+      "id": "10",
+      "name": "Forest Retreat",
+      "description": "Forest Retreat is a secluded wedding venue located in the heart of the forest, providing a peaceful and intimate setting for your special day. The venue features beautiful wooden cabins and lush greenery.",
+      "location": "Vancouver, CA"
+    },
+    {
+      "id": "11",
+      "name": "Lakeside Manor",
+      "description": "Lakeside Manor is a beautiful wedding venue located by the lake, offering stunning water views and a serene atmosphere. It's an ideal location for lakeside weddings and outdoor ceremonies.",
+      "location": "Chicago, IL"
+    },
+    {
+      "id": "12",
+      "name": "Desert Oasis",
+      "description": "Desert Oasis is a unique wedding venue located in the desert, offering a stunning and exotic setting for your special day. The venue features beautiful desert landscapes and luxurious amenities.",
+      "location": "Phoenix, AZ"
+    },
+    {
+      "id": "13",
+      "name": "City Loft",
+      "description": "City Loft is a modern and stylish wedding venue located in the heart of the city, offering a chic and urban setting for your special day. The venue features sleek interiors and stunning city views.",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "id": "14",
+      "name": "Country Estate",
+      "description": "Country Estate is a charming wedding venue located in the countryside, offering a rustic and elegant setting for your special day. The venue features beautiful gardens and historic buildings.",
+      "location": "Nashville, TN"
+    },
+    {
+      "id": "15",
+      "name": "Island Paradise",
+      "description": "Island Paradise is a tropical wedding venue located on a private island, offering a stunning and exotic setting for your special day. The venue features beautiful beaches and luxurious amenities.",
+      "location": "Hawaii, HI"
+    },
+    {
+      "id": "16",
+      "name": "Historic Mansion",
+      "description": "Historic Mansion is a grand and elegant wedding venue located in a historic building, offering a timeless and classic setting for your special day. The venue features beautiful architecture and luxurious interiors.",
+      "location": "Boston, MA"
+    },
+    {
+      "id": "17",
+      "name": "Vineyard Estate",
+      "description": "Vineyard Estate is a beautiful wedding venue located in a vineyard, offering a stunning and romantic setting for your special day. The venue features beautiful vineyards and luxurious amenities.",
+      "location": "Napa Valley, CA"
+    },
+    {
+      "id": "18",
+      "name": "Beachfront Villa",
+      "description": "Beachfront Villa is a luxurious wedding venue located on the beach, offering stunning ocean views and a serene atmosphere. It's an ideal location for beach weddings and sunset ceremonies.",
+      "location": "Malibu, CA"
+    },
+    {
+      "id": "19",
+      "name": "Castle on the Hill",
+      "description": "Castle on the Hill is a grand and opulent wedding venue located in a castle, offering a regal setting for your special day. The venue features magnificent architecture and luxurious interiors.",
+      "location": "Edinburgh, UK"
+    },
+    {
+      "id": "20",
+      "name": "Riverside Pavilion",
+      "description": "Riverside Pavilion is a charming wedding venue located by the river, offering stunning water views and a relaxed atmosphere. It's an ideal location for riverside weddings and outdoor ceremonies.",
+      "location": "Portland, OR"
+    },
+    {
+      "id": "21",
+      "name": "Mountain Chalet",
+      "description": "Mountain Chalet is a rustic wedding venue located in the mountains, providing a cozy and intimate setting for your special day. The chalet features beautiful wooden interiors and stunning mountain views.",
+      "location": "Denver, CO"
+    },
+    {
+      "id": "22",
+      "name": "Botanical Garden",
+      "description": "Botanical Garden is a beautiful wedding venue located in a botanical garden, offering a lush and vibrant setting for your special day. The venue features beautiful flowers and serene atmosphere.",
+      "location": "Atlanta, GA"
+    },
+    {
+      "id": "23",
+      "name": "Luxury Yacht",
+      "description": "Luxury Yacht is a unique wedding venue located on a yacht, offering a stunning and exotic setting for your special day. The venue features beautiful ocean views and luxurious amenities.",
+      "location": "Miami, FL"
+    },
+    {
+      "id": "24",
+      "name": "Countryside Barn",
+      "description": "Countryside Barn is a charming wedding venue located in the countryside, offering a rustic and elegant setting for your special day. The venue features beautiful gardens and historic buildings.",
+      "location": "Austin, TX"
+    },
+    {
+      "id": "25",
+      "name": "Tropical Resort",
+      "description": "Tropical Resort is a beautiful wedding venue located in a tropical resort, offering a stunning and exotic setting for your special day. The venue features beautiful beaches and luxurious amenities.",
+      "location": "Orlando, FL"
+    },
+    {
+      "id": "26",
+      "name": "Historic Church",
+      "description": "Historic Church is a grand and elegant wedding venue located in a historic church, offering a timeless and classic setting for your special day. The venue features beautiful architecture and luxurious interiors.",
+      "location": "Philadelphia, PA"
+    },
+    {
+      "id": "27",
+      "name": "Vineyard Villa",
+      "description": "Vineyard Villa is a beautiful wedding venue located in a vineyard, offering a stunning and romantic setting for your special day. The venue features beautiful vineyards and luxurious amenities.",
+      "location": "Sonoma, CA"
+    },
+    {
+      "id": "28",
+      "name": "Beach House",
+      "description": "Beach House is a luxurious wedding venue located on the beach, offering stunning ocean views and a serene atmosphere. It's an ideal location for beach weddings and sunset ceremonies.",
+      "location": "Santa Monica, CA"
+    },
+    {
+      "id": "29",
+      "name": "Castle by the Sea",
+      "description": "Castle by the Sea is a grand and opulent wedding venue located in a castle by the sea, offering a regal setting for your special day. The venue features magnificent architecture and luxurious interiors.",
+      "location": "Dublin, IE"
+    },
+    {
+      "id": "30",
+      "name": "Riverside Manor",
+      "description": "Riverside Manor is a charming wedding venue located by the river, offering stunning water views and a relaxed atmosphere. It's an ideal location for riverside weddings and outdoor ceremonies.",
+      "location": "New Orleans, LA"
+    },
+    {
+      "id": "31",
+      "name": "Mountain Lodge",
+      "description": "Mountain Lodge is a rustic wedding venue located in the mountains, providing a cozy and intimate setting for your special day. The lodge features beautiful wooden interiors and stunning mountain views.",
+      "location": "Salt Lake City, UT"
+    },
+    {
+      "id": "32",
+      "name": "Garden Pavilion",
+      "description": "Garden Pavilion is a beautiful wedding venue located in a garden, offering a lush and vibrant setting for your special day. The venue features beautiful flowers and serene atmosphere.",
+      "location": "Seattle, WA"
+    },
+    {
+      "id": "33",
+      "name": "Luxury Resort",
+      "description": "Luxury Resort is a unique wedding venue located in a luxury resort, offering a stunning and exotic setting for your special day. The venue features beautiful ocean views and luxurious amenities.",
+      "location": "Las Vegas, NV"
+    },
+    {
+      "id": "34",
+      "name": "Country Barn",
+      "description": "Country Barn is a charming wedding venue located in the countryside, offering a rustic and elegant setting for your special day. The venue features beautiful gardens and historic buildings.",
+      "location": "Charlotte, NC"
+    },
+    {
+      "id": "35",
+      "name": "Island Resort",
+      "description": "Island Resort is a beautiful wedding venue located in an island resort, offering a stunning and exotic setting for your special day. The venue features beautiful beaches and luxurious amenities.",
+      "location": "Key West, FL"
+    },
+    {
+      "id": "36",
+      "name": "Historic Castle",
+      "description": "Historic Castle is a grand and elegant wedding venue located in a historic castle, offering a timeless and classic setting for your special day. The venue features beautiful architecture and luxurious interiors.",
+      "location": "Prague, CZ"
+    },
+    {
+      "id": "37",
+      "name": "Vineyard Retreat",
+      "description": "Vineyard Retreat is a beautiful wedding venue located in a vineyard, offering a stunning and romantic setting for your special day. The venue features beautiful vineyards and luxurious amenities.",
+      "location": "Tuscany, IT"
+    },
+    {
+      "id": "38",
+      "name": "Beachfront Resort",
+      "description": "Beachfront Resort is a luxurious wedding venue located on the beach, offering stunning ocean views and a serene atmosphere. It's an ideal location for beach weddings and sunset ceremonies.",
+      "location": "Cancun, MX"
+    },
+    {
+      "id": "39",
+      "name": "Castle in the Sky",
+      "description": "Castle in the Sky is a grand and opulent wedding venue located in a castle, offering a regal setting for your special day. The venue features magnificent architecture and luxurious interiors.",
+      "location": "Vienna, AT"
+    },
+    {
+      "id": "40",
+      "name": "Riverside Lodge",
+      "description": "Riverside Lodge is a charming wedding venue located by the river, offering stunning water views and a relaxed atmosphere. It's an ideal location for riverside weddings and outdoor ceremonies.",
+      "location": "San Antonio, TX"
+    },
+    {
+      "id": "41",
+      "name": "Mountain Cabin",
+      "description": "Mountain Cabin is a rustic wedding venue located in the mountains, providing a cozy and intimate setting for your special day. The cabin features beautiful wooden interiors and stunning mountain views.",
+      "location": "Bozeman, MT"
+    },
+    {
+      "id": "42",
+      "name": "Garden Estate",
+      "description": "Garden Estate is a beautiful wedding venue located in a garden, offering a lush and vibrant setting for your special day. The venue features beautiful flowers and serene atmosphere.",
+      "location": "Savannah, GA"
+    },
+    {
+      "id": "43",
+      "name": "Luxury Villa",
+      "description": "Luxury Villa is a unique wedding venue located in a luxury villa, offering a stunning and exotic setting for your special day. The venue features beautiful ocean views and luxurious amenities.",
+      "location": "Santorini, GR"
+    },
+    {
+      "id": "44",
+      "name": "Country House",
+      "description": "Country House is a charming wedding venue located in the countryside, offering a rustic and elegant setting for your special day. The venue features beautiful gardens and historic buildings.",
+      "location": "Birmingham, UK"
+    },
+    {
+      "id": "45",
+      "name": "Island Villa",
+      "description": "Island Villa is a beautiful wedding venue located in an island villa, offering a stunning and exotic setting for your special day. The venue features beautiful beaches and luxurious amenities.",
+      "location": "Bora Bora, PF"
+    },
+    {
+      "id": "46",
+      "name": "Historic Manor",
+      "description": "Historic Manor is a grand and elegant wedding venue located in a historic manor, offering a timeless and classic setting for your special day. The venue features beautiful architecture and luxurious interiors.",
+      "location": "Richmond, VA"
+    },
+    {
+      "id": "47",
+      "name": "Vineyard House",
+      "description": "Vineyard House is a beautiful wedding venue located in a vineyard, offering a stunning and romantic setting for your special day. The venue features beautiful vineyards and luxurious amenities.",
+      "location": "Bordeaux, FR"
+    },
+    {
+      "id": "48",
+      "name": "Beachfront Mansion",
+      "description": "Beachfront Mansion is a luxurious wedding venue located on the beach, offering stunning ocean views and a serene atmosphere. It's an ideal location for beach weddings and sunset ceremonies.",
+      "location": "Gold Coast, AU"
+    },
+    {
+      "id": "49",
+      "name": "Castle by the Lake",
+      "description": "Castle by the Lake is a grand and opulent wedding venue located in a castle by the lake, offering a regal setting for your special day. The venue features magnificent architecture and luxurious interiors.",
+      "location": "Zurich, CH"
+    },
+    {
+      "id": "50",
+      "name": "Riverside Estate",
+      "description": "Riverside Estate is a charming wedding venue located by the river, offering stunning water views and a relaxed atmosphere. It's an ideal location for riverside weddings and outdoor ceremonies.",
+      "location": "Austin, TX"
+    }
+  ]
+}
